@@ -1,6 +1,6 @@
 Hello, i am José Aguilera, i am from Venezuela, welcome to my profile.
 
-i am 18 years old, and currently i am learning Next.js, and i know use Vanilla js, React.js, Boostrap, some python.
+i am 18 years old, and currently i am learning Next.js, and i know use some Vanilla js, React.js, Boostrap, some python.
 
 I am learning english and programming.
 
