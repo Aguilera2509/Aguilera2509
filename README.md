@@ -1,23 +1,18 @@
-Hello, i am José Aguilera, i am from Venezuela, welcome to my profile.
+Hello, i am José Aguilera from Venezuela, welcome to my profile.
 
-i am 18 years old, and currently i am learning Next.js, and i know use some Vanilla js, React.js, Boostrap, some python.
+I'm 19 years old, and i know how to use Vanilla js, React.js, Next.js, Boostrap, python(Django).
 
-I am learning english and programming.
+I'm learning english.
 
-How student i am practicing yet, but i invite you to see my repository, and you might to check this page made by me:
+I'm inviting you to see my repository, and you might to check this page made by me:
+Those web site are in Spanish but i have more and its english in my repository
 
 https://jose-notas.netlify.app/
-
-and, too:
-
 https://practica-dom.netlify.app/
 
-Note: Those pages is in Spanish.
+You can to find those codes and more in my repository, and for more information contact me: 
 
-You can to find those codes and more in my repository, and more information contact me for: 
-
-Email: Ja846699@gmail.com.
-Phone Number: (+58) 0412-1764942.
+Main Email: Ja846699@gmail.com
 
 <!---
 Aguilera2509/Aguilera2509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
