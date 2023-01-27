@@ -12,7 +12,7 @@ https://practica-dom.netlify.app/
 
 You can to find those codes and more in my repository, and for more information contact me: 
 
-Main Email: Ja846699@gmail.com
+Main Email: alejandroaguilera2509@gmail.com
 
 <!---
 Aguilera2509/Aguilera2509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
