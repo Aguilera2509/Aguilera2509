@@ -1,8 +1,8 @@
 Hello, I am José Aguilera from Venezuela, welcome to my profile.
 
-I'm 19 years old, I am able to use Vanilla js, React.js y Next.js competently with Js and Ts, Boostrap, AJAX, APIs and I have experience in this area, you could see my projects and give me an opinion.
+I'm 20 years old, I am able to use Vanilla js, React.js y Next.js competently with Js and Ts, Boostrap, AJAX, APIs and I have experience in this area, you could see my projects and give me an opinion.
 
-I'm still learning english.
+I know english at a good level, i can write it and speak it well.
 
 You can to find useful codes and more in my repository, and for more information contact me: 
 
